@@ -23,3 +23,7 @@ project_structure.txt
 
 # Backend specific
 backend/static/
+# file specific
+*.npy
+*.pkl
+*.txt
